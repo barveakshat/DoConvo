@@ -72,3 +72,4 @@ const ChatComponent = ({ chatId }: Props) => {
 };
 
 export default ChatComponent;
+//  Hiii this is error solving commmitment
